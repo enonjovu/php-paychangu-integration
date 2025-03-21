@@ -1,0 +1,15 @@
+/vendor/
+/composer.lock
+/.idea/
+/build/
+/var/
+/cache/
+/temp/
+/tmp/
+*.log
+*.bak
+*~
+# If you use PHPUnit
+/phpunit.xml.dist
+/phpunit.xml
+/coverage/
