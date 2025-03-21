@@ -2,7 +2,11 @@
     "name": "enonjovu/paychangu-integration",
     "type": "project",
     "require": {
-        "guzzlehttp/guzzle": "^7.9"
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.9",
+        "illuminate/collections": "^12.3",
+        "symfony/var-dumper": "^7.2",
+        "ramsey/uuid": "^4.7"
     },
     "autoload": {
         "psr-4": {
